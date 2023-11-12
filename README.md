@@ -1,5 +1,2 @@
 # automation-project
-teset2 
-
-
-ppl
+This file is created for testing purpose
